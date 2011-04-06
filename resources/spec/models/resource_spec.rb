@@ -42,7 +42,7 @@ describe Resource do
 
   describe "#type_of_content" do
     it "returns formated mime type" do
-      @resource.type_of_content.should == "text plain"
+      @resource.type_of_content.should == "text plain charset=us-ascii"
     end
   end
 

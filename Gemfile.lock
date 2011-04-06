@@ -97,7 +97,7 @@ GEM
       autotest (~> 4.3)
     autotest-rails (4.1.0)
       ZenTest
-    babosa (0.3.2)
+    babosa (0.3.3)
     bcrypt-ruby (2.1.4)
     builder (2.1.2)
     capybara (0.4.1.2)
